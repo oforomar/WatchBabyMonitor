@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Baby Monitor</string>
+    <string name="channel_alarm">Crying alarm</string>
+    <string name="channel_alarm_desc">Loud alarm when the watch hears crying or loses contact</string>
+    <string name="ack">I\'m on it</string>
+</resources>
